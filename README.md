@@ -1,3 +1,3 @@
 # Computer Networking
 
-Computer Networking projects for TCP/IP in C, Java and Python language.
+TCP/IP multithreading projects in C, Python and Java languages.
